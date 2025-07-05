@@ -1,2 +1,2 @@
 wait("0.2")
-loadstring(game:HttpGet('https://raw.githubusercontent.com/sleepyvill/script/refs/heads/main/autojoiner.lua', true))()
+loadstring(game:HttpGetAsync('https://pastefy.app/VYLFXyFX/raw'))()
