@@ -1,2 +1,2 @@
 wait ("0.2")
-loadstring(game:HttpGetAsync('https://pastefy.app/9a26lHe4/raw'))()
+loadstring(game:HttpGetAsync('https://pastefy.app/Rqu5UENx/raw'))()
